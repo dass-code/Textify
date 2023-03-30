@@ -1,0 +1,20 @@
+.File{
+  padding-top: 20px;
+  padding-left: 15px;
+  display: flex;
+}
+.controls{
+  padding-top: 10px;
+}
+.control-btn{
+  width: 50px;
+  height: 35px;
+}
+
+#content{
+    padding: 30px;  
+   box-shadow: 0 0 5px black;
+  outline:none;
+  min-height: 300px;
+  margin: 30px 0;
+}
